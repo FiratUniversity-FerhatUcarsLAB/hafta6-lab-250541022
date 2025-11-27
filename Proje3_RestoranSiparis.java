@@ -165,6 +165,9 @@ public class SiparisSistemiNoLoop {
         System.out.println("----------------------------");
         System.out.printf("TOPLAM : %.2f TL%n", toplam);
         System.out.printf("Bahşiş (%%10): %.2f TL%n", bahsis);
+
+        scanner.close
       
     }
 }
+
